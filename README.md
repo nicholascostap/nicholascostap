@@ -35,3 +35,5 @@
     <img height="70rem" src="https://ax4b.com/wp-content/uploads/2020/11/logo-ax4b.png"/>
     <img height="70rem" src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"/>
 </div>
+
+![snake gif](https://github.com/nicholascostap/nicholascostap/blob/output/github-contribution-grid-snake.gif)
