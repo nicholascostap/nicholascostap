@@ -38,6 +38,4 @@
 
 ## Animação:
 
-<div name="snake-animation">
-    ![snake gif](https://github.com/nicholascostap/nicholascostap/blob/output/github-contribution-grid-snake.gif)
-</div>
+![snake gif](https://github.com/nicholascostap/nicholascostap/blob/output/github-contribution-grid-snake.gif)
