@@ -36,4 +36,8 @@
     <img height="70rem" src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"/>
 </div>
 
-![snake gif](https://github.com/nicholascostap/nicholascostap/blob/output/github-contribution-grid-snake.gif)
+## Animação:
+
+<div name="snake-animation">
+    ![snake gif](https://github.com/nicholascostap/nicholascostap/blob/output/github-contribution-grid-snake.gif)
+</div>
