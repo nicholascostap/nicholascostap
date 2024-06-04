@@ -1,4 +1,4 @@
-## Olá, eu sou o Nicholas Costa!
+## Olá, eu sou o Nicholas!
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta.
 - 🏢 Desenvolvedor de Software Pleno.
 - 🌱 Atualmente aprendendo Django.
