@@ -34,6 +34,7 @@
 <div name="experiences">
     <img height="70rem" src="https://ciel-it.com/web/image/website/1/logo/CIEL%20IT?unique=abd32f5"/>
     <img height="70rem" src="https://ax4b.com/wp-content/uploads/2020/11/logo-ax4b.png"/>
+    <img height="70rem" src="https://www.orrprotection.com/hubfs/Logos/orr_logo_white.svg"/>
     <img height="70rem" src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"/>
 </div>
 
