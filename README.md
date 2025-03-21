@@ -20,6 +20,7 @@
 
 <div name="icons">
     <img height="90rem" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+    <img height="90rem" alt="Odoo Icon" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/>
     <img height="90rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
     <img height="90rem" alt="CSharp Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
     <img height="90rem" alt="PostgreSQL Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
