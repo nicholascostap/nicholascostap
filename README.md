@@ -6,7 +6,9 @@
     - 📧 Email: nicholascostap@gmail.com
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
-          
+
+## Stats:
+
 <div name="stats">
     <a href="https://github.com/nicholascostap">
     <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholascostap&theme=kacho_ga&hide_border=false"/>
