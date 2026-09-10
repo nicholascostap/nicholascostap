@@ -1,5 +1,5 @@
 ## Hi, I'm Nicholas!
-- 🎓 Student of Software Analysis & Development, at Impacta.
+- 🎓 Student of Software Development & Analysis, at Impacta.
 - 🏢 Software Engineer.
 - 📚 Interesting in Full-Stack Development, API's and DevOps.
 - 📫 Contact:
@@ -20,8 +20,8 @@
 
 <div name="icons">
     <img height="90rem" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-    <img height="90rem" width="100rem" alt="Odoo Icon" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg"/>
-    <img height="90rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+    <img height="90rem" alt="Odoo Icon" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/odoo.svg"/>
+    <img height="90rem" alt="Django Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
     <img height="90rem" alt="CSharp Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
     <img height="90rem" alt="PostgreSQL Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
     <img height="90rem" alt="Selenium Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
@@ -30,7 +30,7 @@
     <img height="90rem" alt="JavaScript Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
 </div>
 
-## Experiences and education:
+## Professional and Academic Experiences:
 
 <div name="experiences">
     <img height="70rem" src="https://ciel-it.com/web/image/website/1/logo/CIEL%20IT?unique=abd32f5"/>
