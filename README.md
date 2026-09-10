@@ -33,10 +33,10 @@
 ## Professional and Academic Experiences:
 
 <div name="experiences">
-    <img height="70rem" src="https://ciel-it.com/web/image/website/1/logo/CIEL%20IT?unique=abd32f5"/>
-    <img height="70rem" src="https://ax4b.com/wp-content/uploads/2020/11/logo-ax4b.png"/>
-    <img height="70rem" src="http://orrprotection.com/wp-content/uploads/2026/03/ORR-Protection.png"/>
-    <img height="70rem" src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"/>
+    <img height="90rem" src="https://ciel-it.com/web/image/website/1/logo/CIEL%20IT?unique=abd32f5"/>
+    <img height="90rem" src="https://ax4b.com/wp-content/uploads/2020/11/logo-ax4b.png"/>
+    <img height="90rem" src="http://orrprotection.com/wp-content/uploads/2026/03/ORR-Protection.png"/>
+    <img height="90rem" src="https://www.impacta.edu.br/themes/wc_agenciar3/images/logo-new.png"/>
 </div>
 
 ## Animation:
