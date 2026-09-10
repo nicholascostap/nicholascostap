@@ -16,7 +16,7 @@
 </div>
 <br>
 
-## Tecnologies of my Stack:
+## Tecnologies Stack:
 
 <div name="icons">
     <img height="90rem" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
